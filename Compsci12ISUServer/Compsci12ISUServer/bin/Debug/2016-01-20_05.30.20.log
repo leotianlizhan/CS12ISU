@@ -1,0 +1,6 @@
+|05:30:21| [INFO] Logging initialized!
+|05:30:21| [INFO] Current date: 2016-01-20
+|05:30:21| [INFO] This is an automatically generated log file from the Computer Science 12U ISU Server made by Andrew and Tianli.
+|05:30:21| [INFO] Server starting up!
+|05:30:21| [SEVERE] There was no file path specified to retrieve server data from.
+|05:30:21| [WARNING] Server did not start properly, quitting...

@@ -1,0 +1,2 @@
+32
+I can also format it however I want. If I want a new line...\r\nLike this.\r\n\r\nOr like this.\r\nI can do it. Cool listbox man, I got it online.

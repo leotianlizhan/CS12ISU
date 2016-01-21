@@ -1,0 +1,17 @@
+E:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.exe.config
+E:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.exe
+E:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.pdb
+E:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\obj\Debug\Compsci12ISUServer.exe
+E:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\obj\Debug\Compsci12ISUServer.pdb
+G:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.exe.config
+G:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\obj\Debug\Compsci12ISUServer.exe
+G:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\obj\Debug\Compsci12ISUServer.pdb
+G:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.exe
+G:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.pdb
+E:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\obj\Debug\Compsci12ISUServer.csprojResolveAssemblyReference.cache
+E:\ISU\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.exe.config
+E:\ISU\Compsci12ISUServer\Compsci12ISUServer\obj\Debug\Compsci12ISUServer.exe
+E:\ISU\Compsci12ISUServer\Compsci12ISUServer\obj\Debug\Compsci12ISUServer.pdb
+E:\ISU\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.exe
+E:\ISU\Compsci12ISUServer\Compsci12ISUServer\bin\Debug\Compsci12ISUServer.pdb
+E:\ISU\Compsci12ISUServer\Compsci12ISUServer\obj\Debug\Compsci12ISUServer.csprojResolveAssemblyReference.cache

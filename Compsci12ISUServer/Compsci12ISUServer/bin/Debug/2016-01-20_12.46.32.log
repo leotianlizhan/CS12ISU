@@ -1,0 +1,12 @@
+|12:46:32| [INFO] Logging initialized!
+|12:46:32| [INFO] Current date: 2016-01-20
+|12:46:32| [INFO] This is an automatically generated log file from the Computer Science 12U ISU Server made by Andrew and Tianli.
+|12:46:32| [INFO] Server starting up!
+|12:46:32| [SEVERE] There was no file path specified to retrieve server data from.
+|12:46:32| [WARNING] Server did not start properly, quitting...
+|12:46:32| [INFO] Found clubs directory in E:/ISU/Compsci12ISUServer_Data directory.
+|12:46:32| [INFO] Found posts directory in E:/ISU/Compsci12ISUServer_Data directory.
+|12:46:32| [INFO] Found users directory in E:/ISU/Compsci12ISUServer_Data directory.
+|12:46:32| [INFO] Found pseudo requests directory in E:/ISU/Compsci12ISUServer_Data directory.
+|12:46:32| [INFO] Found admins directory in E:/ISU/Compsci12ISUServer_Data directory.
+|12:46:32| [INFO] Found 1 request that has not yet been processed.

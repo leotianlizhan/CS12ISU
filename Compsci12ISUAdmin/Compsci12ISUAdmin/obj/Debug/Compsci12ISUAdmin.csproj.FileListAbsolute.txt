@@ -1,0 +1,6 @@
+E:\ISU\Compsci12ISUAdmin\Compsci12ISUAdmin\bin\Debug\Compsci12ISUAdmin.exe.config
+E:\ISU\Compsci12ISUAdmin\Compsci12ISUAdmin\bin\Debug\Compsci12ISUAdmin.exe
+E:\ISU\Compsci12ISUAdmin\Compsci12ISUAdmin\bin\Debug\Compsci12ISUAdmin.pdb
+E:\ISU\Compsci12ISUAdmin\Compsci12ISUAdmin\obj\Debug\Compsci12ISUAdmin.csprojResolveAssemblyReference.cache
+E:\ISU\Compsci12ISUAdmin\Compsci12ISUAdmin\obj\Debug\Compsci12ISUAdmin.exe
+E:\ISU\Compsci12ISUAdmin\Compsci12ISUAdmin\obj\Debug\Compsci12ISUAdmin.pdb

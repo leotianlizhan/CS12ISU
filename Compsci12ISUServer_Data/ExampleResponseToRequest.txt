@@ -1,0 +1,12 @@
+200 OK
+Target: "G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug"
+-----
+listofClubs:
+#[|Club Name|description|room number|club leader|]
+[|Marxist Philosophy Club|Philosophy|320|Andrew Pang|]
+[|Western Philosophy Club|Philosophy|322|Andrew Pang|]
+[|Political Philosophy Club|Philosophy|217|Andrew Pang|]
+[|Philosophical Debates via Socratic Method Club|Philosophy|122|Andrew Pang|]
+[|Plato and Aristotle Fandom Club|Philosophy|110|Andrew Pang|]
+[|Physics Club|Babysitting Services|321|Tianli Zhan|]
+[|Yearbook Club|School|220|Mr. Hsiung|]

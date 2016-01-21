@@ -1,0 +1,87 @@
+|11:04:49| [INFO] Logging initialized!
+|11:04:49| [INFO] Current date: 2016-01-20
+|11:04:49| [INFO] This is an automatically generated log file from the Computer Science 12U ISU Server made by Andrew and Tianli.
+|11:04:49| [INFO] Server starting up!
+|11:04:49| [INFO] The file path specified for the first argument is valid.
+|11:04:50| [INFO] Found clubs directory in E:/ISU/Compsci12ISUServer_Data directory.
+|11:04:50| [INFO] Found posts directory in E:/ISU/Compsci12ISUServer_Data directory.
+|11:04:50| [INFO] Found users directory in E:/ISU/Compsci12ISUServer_Data directory.
+|11:04:50| [INFO] Found pseudo requests directory in E:/ISU/Compsci12ISUServer_Data directory.
+|11:04:50| [INFO] Found admins directory in E:/ISU/Compsci12ISUServer_Data directory.
+|11:04:50| [INFO] Found 1 request that has not yet been processed.
+|11:04:51| [SEVERE] System.IO.IOException: The file 'E:/ISU/Compsci12ISUClient/ISU/bin/Debug/posts/01-21-2016_03.32.59.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in E:\ISU\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 482
+|11:04:51| [INFO] No unprocessed requests were found.
+|11:04:51| [INFO] No unprocessed requests were found.
+|11:04:51| [INFO] No unprocessed requests were found.
+|11:04:52| [INFO] No unprocessed requests were found.
+|11:04:52| [INFO] No unprocessed requests were found.
+|11:04:52| [INFO] No unprocessed requests were found.
+|11:04:52| [INFO] No unprocessed requests were found.
+|11:04:52| [INFO] No unprocessed requests were found.
+|11:04:52| [INFO] No unprocessed requests were found.
+|11:04:53| [INFO] No unprocessed requests were found.
+|11:04:53| [INFO] No unprocessed requests were found.
+|11:04:53| [INFO] Found 1 request that has not yet been processed.
+|11:04:54| [SEVERE] System.IO.IOException: The file 'E:/ISU/Compsci12ISUClient/ISU/bin/Debug/posts/01-21-2016_03.32.59.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in E:\ISU\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 482
+|11:04:54| [INFO] No unprocessed requests were found.
+|11:04:55| [INFO] No unprocessed requests were found.
+|11:04:55| [INFO] No unprocessed requests were found.
+|11:04:55| [INFO] No unprocessed requests were found.
+|11:04:55| [INFO] No unprocessed requests were found.
+|11:04:55| [INFO] No unprocessed requests were found.
+|11:04:55| [INFO] No unprocessed requests were found.
+|11:04:56| [INFO] No unprocessed requests were found.
+|11:04:56| [INFO] No unprocessed requests were found.
+|11:04:56| [INFO] No unprocessed requests were found.
+|11:04:56| [INFO] No unprocessed requests were found.
+|11:04:57| [INFO] No unprocessed requests were found.
+|11:04:57| [INFO] No unprocessed requests were found.
+|11:04:57| [INFO] No unprocessed requests were found.
+|11:04:57| [INFO] No unprocessed requests were found.
+|11:04:57| [INFO] No unprocessed requests were found.
+|11:04:57| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:58| [INFO] No unprocessed requests were found.
+|11:04:59| [INFO] No unprocessed requests were found.
+|11:04:59| [INFO] No unprocessed requests were found.
+|11:04:59| [INFO] No unprocessed requests were found.
+|11:04:59| [INFO] No unprocessed requests were found.

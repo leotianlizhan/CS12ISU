@@ -1,0 +1,5 @@
+[|123|PhysicsClub|Room 306|Mr. Adams|A small club for nerds|]
+[|21|Computer Science Club|Room 129|Mr. Shankadank|A small club for smart nerds|]
+[|32|AndroidClub|Room 129|Mr. Shankadank|A small club for nerds who like Android. I CHANGED SOMETHING!|]
+[|8fc26aa5-9f5d-4638-a7da-5c77fe84688e|test|Empty|Empty|Empty|]
+[|c7d13a43-8e21-4501-8e38-ca8d6e5ba343|Deez Nutz|Empty|Empty|Empty|]

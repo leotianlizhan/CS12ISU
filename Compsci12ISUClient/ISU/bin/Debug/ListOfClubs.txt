@@ -1,0 +1,3 @@
+[|123|PhysicsClub|Room 306|Mr. Adams|A small club for nerds|]
+[|21|Computer Science Club|Room 129|Mr. Shankadank|A small club for smart nerds|]
+[|32|AndroidClub|Room 129|Mr. Shankadank|A small club for nerds who like Android|]

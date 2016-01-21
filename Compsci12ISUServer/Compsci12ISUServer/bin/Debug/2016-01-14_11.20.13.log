@@ -1,0 +1,275 @@
+|11:20:13| [INFO] Logging initialized!
+|11:20:13| [INFO] Current date: 2016-01-14
+|11:20:13| [INFO] This is an automatically generated log file from the Computer Science 12U ISU Server made by Andrew and Tianli.
+|11:20:13| [INFO] Server starting up!
+|11:20:13| [INFO] The file path specified for the first argument is valid.
+|11:20:13| [INFO] Found clubs directory in G:/Compsci Temp/Compsci12ISUServer_Data directory.
+|11:20:13| [INFO] Found posts directory in G:/Compsci Temp/Compsci12ISUServer_Data directory.
+|11:20:13| [INFO] Found users directory in G:/Compsci Temp/Compsci12ISUServer_Data directory.
+|11:20:13| [INFO] Found pseudo requests directory in G:/Compsci Temp/Compsci12ISUServer_Data directory.
+|11:20:13| [INFO] Found 1 request that has not yet been processed.
+|11:20:13| [INFO] Found 1 request that has not yet been processed.
+|11:20:14| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:14| [INFO] Found 1 request that has not yet been processed.
+|11:20:14| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:14| [INFO] Found 1 request that has not yet been processed.
+|11:20:14| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:14| [INFO] Found 1 request that has not yet been processed.
+|11:20:14| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:14| [INFO] Found 1 request that has not yet been processed.
+|11:20:14| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:14| [INFO] Found 1 request that has not yet been processed.
+|11:20:14| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:14| [INFO] Found 1 request that has not yet been processed.
+|11:20:14| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:15| [INFO] Found 1 request that has not yet been processed.
+|11:20:15| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:15| [INFO] Found 1 request that has not yet been processed.
+|11:20:15| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:15| [INFO] Found 1 request that has not yet been processed.
+|11:20:15| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:15| [INFO] Found 1 request that has not yet been processed.
+|11:20:15| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:15| [INFO] Found 1 request that has not yet been processed.
+|11:20:15| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:15| [INFO] Found 1 request that has not yet been processed.
+|11:20:15| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:15| [INFO] Found 1 request that has not yet been processed.
+|11:20:15| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:16| [INFO] Found 1 request that has not yet been processed.
+|11:20:16| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:16| [INFO] Found 1 request that has not yet been processed.
+|11:20:16| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:16| [INFO] Found 1 request that has not yet been processed.
+|11:20:16| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:16| [INFO] Found 1 request that has not yet been processed.
+|11:20:16| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:16| [INFO] Found 1 request that has not yet been processed.
+|11:20:16| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:16| [INFO] Found 1 request that has not yet been processed.
+|11:20:16| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:16| [INFO] Found 1 request that has not yet been processed.
+|11:20:16| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:16| [INFO] Found 1 request that has not yet been processed.
+|11:20:16| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:17| [INFO] Found 1 request that has not yet been processed.
+|11:20:17| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:17| [INFO] Found 1 request that has not yet been processed.
+|11:20:17| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:17| [INFO] Found 1 request that has not yet been processed.
+|11:20:17| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:17| [INFO] Found 1 request that has not yet been processed.
+|11:20:17| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:17| [INFO] Found 1 request that has not yet been processed.
+|11:20:17| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:17| [INFO] Found 1 request that has not yet been processed.
+|11:20:17| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:17| [INFO] Found 1 request that has not yet been processed.
+|11:20:17| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:17| [INFO] Found 1 request that has not yet been processed.
+|11:20:17| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:18| [INFO] Found 1 request that has not yet been processed.
+|11:20:18| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:18| [INFO] Found 1 request that has not yet been processed.
+|11:20:18| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:18| [INFO] Found 1 request that has not yet been processed.
+|11:20:18| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:18| [INFO] Found 1 request that has not yet been processed.
+|11:20:18| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:18| [INFO] Found 1 request that has not yet been processed.
+|11:20:18| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:18| [INFO] Found 1 request that has not yet been processed.
+|11:20:18| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:18| [INFO] Found 1 request that has not yet been processed.
+|11:20:18| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:19| [INFO] Found 1 request that has not yet been processed.
+|11:20:19| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:19| [INFO] Found 1 request that has not yet been processed.
+|11:20:19| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:19| [INFO] Found 1 request that has not yet been processed.
+|11:20:19| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:19| [INFO] Found 1 request that has not yet been processed.
+|11:20:19| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:19| [INFO] Found 1 request that has not yet been processed.
+|11:20:19| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:19| [INFO] Found 1 request that has not yet been processed.
+|11:20:19| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:19| [INFO] Found 1 request that has not yet been processed.
+|11:20:19| [SEVERE] System.IO.IOException: The file 'G:/Compsci Temp/Compsci12ISUServer/Compsci12ISUServer/bin/Debug/01-13-2016_12.39.12.txt' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Compsci12ISUServer.AndrewModel.RespondWithListOfPosts(String target, Int32 quantifier) in g:\Compsci Temp\Compsci12ISUServer\Compsci12ISUServer\AndrewModel.cs:line 383
+|11:20:19| [INFO] Found 1 request that has not yet been processed.
